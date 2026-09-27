@@ -31,6 +31,15 @@ The analysis uses several datasets from the Favorita Store Sales dataset:
 - `stores.csv` — Store information, including city, state, type, and cluster.
 - `holidays_events.csv` — Holidays and events in Ecuador.
 
+## 📥 Data Source
+
+The dataset used in this project comes from the Store Sales - Time Series Forecasting competition on Kaggle, provided by Corporación Favorita.
+
+The original dataset includes historical sales data and supporting information such as store metadata, holidays and events, oil prices, and transactions.
+
+train.csv is not included in this repository due to GitHub’s file size limitations. 
+Kaggle: ryanholbrook/exercise-trend
+
 ## 🔎 Analysis
 
 The project includes:
